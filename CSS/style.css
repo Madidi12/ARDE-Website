@@ -1,0 +1,11 @@
+body {background-color: green;}
+img {height: 200px;
+     border-radius: 40%; }
+
+table{cellspacing : 300px;
+}
+/*th {border: 3px solid black;
+background-color: yellow;}
+td {padding: 10px;}*/
+hr{height: 3px;
+   background-color: black;}
